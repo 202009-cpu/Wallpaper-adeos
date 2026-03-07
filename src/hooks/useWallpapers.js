@@ -1,0 +1,1 @@
+export { useWallpaperFeed } from './useWallpaperFeed';
