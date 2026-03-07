@@ -1,0 +1,10 @@
+{
+  "name": "Lumina3D Wallpapers",
+  "short_name": "Lumina3D",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Animated wallpapers with Firebase sync.",
+  "icons": []
+}
